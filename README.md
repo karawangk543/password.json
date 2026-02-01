@@ -1,2 +1,3 @@
-# password.json
-password 
+{
+  "password": "VERSION11 NEW"
+}
